@@ -1,0 +1,14 @@
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.exe
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.deps.json
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.runtimeconfig.json
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.runtimeconfig.dev.json
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.dll
+C:\Users\Omar Sierra\source\repos\Pot\Pot\bin\Debug\netcoreapp3.1\Pot.pdb
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.csproj.AssemblyReference.cache
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.AssemblyInfoInputs.cache
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.AssemblyInfo.cs
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.csproj.CoreCompileInputs.cache
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.dll
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.pdb
+C:\Users\Omar Sierra\source\repos\Pot\Pot\obj\Debug\netcoreapp3.1\Pot.genruntimeconfig.cache
